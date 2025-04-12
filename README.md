@@ -1,4 +1,4 @@
-## Hi there 👋 Please help me I have no clue what's going on
+## Hi there 👋 
 
 <!--
 **ael1083/ael1083** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
